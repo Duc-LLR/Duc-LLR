@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Stack & Outils
+## 🚀 Stack & Tools
 ### 🛠️ DevOps / Cloud
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
@@ -35,14 +35,14 @@
 
 
 
-### 📦 Monorepo Tooling (exploration en cours 🚧)
+### 📦 Monorepo Tooling
 <p align="left">
   <img src="https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/bd0b2f6e8b9f07ae50bb8aa4bdefa3172d24cf01/icons/moon.svg" width="40" height="40"/> <!-- ex: Moon -->
 </p>
 
 ---
 
-## 📊 Quelques stats
+## 📊 Some Stats
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Duc-LLR&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Duc-LLR&theme=tokyonight)
 
