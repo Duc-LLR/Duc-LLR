@@ -11,6 +11,7 @@
 ## 🚀 Stack & Tools
 #### 🛠️ DevOps / Cloud
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> 
