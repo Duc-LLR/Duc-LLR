@@ -17,6 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefikproxy/traefikproxy-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/caddy-light.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/docusaurus.svg" width="40" height="40"/> 
+  
 
 </p>
 
