@@ -24,6 +24,15 @@ Automating the path from code to production.
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub Actions"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" title="GitLab CI"/> <img src="https://tekton.dev//favicons/favicon.ico" width="40" height="40" title="Tekton"/> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" width="40" height="40" title="Bash Scripting"/> </p>
 
+## 🔐 Identity & Access Management (IAM)
+Securing services with Single Sign-On (SSO) and robust authentication.
+
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/authentik.svg" width="40" height="40" title="Authentik"/> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/keycloak.svg" width="40" height="40" title="Keycloak"/> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/hashicorp-vault.svg" width="40" height="40" title="HashiCorp Vault"/> 
+</p>
+
 ## 📖 Documentation & Developer Experience
 Creating accessible knowledge and monorepo management.
 
@@ -33,10 +42,11 @@ Creating accessible knowledge and monorepo management.
 </p>
 
 
-## ☁️ Cloud Providers
+## ☁️ Cloud Providers/Hardwares
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/hewlett-packard-enterprise.svg" width="40" height="40"/>  
 
 
 ---
