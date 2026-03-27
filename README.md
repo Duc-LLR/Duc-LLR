@@ -42,7 +42,7 @@ Creating accessible knowledge and monorepo management.
 </p>
 
 
-## ☁️ Cloud Providers/Hardwares
+## ☁️ Cloud Providers & Hardwares
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
