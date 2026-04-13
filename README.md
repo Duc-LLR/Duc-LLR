@@ -24,13 +24,20 @@ Automating the path from code to production.
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub Actions"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" title="GitLab CI"/> <img src="https://tekton.dev//favicons/favicon.ico" width="40" height="40" title="Tekton"/> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg" width="40" height="40" title="Bash Scripting"/> </p>
 
-## 🔐 Identity & Access Management (IAM)
+## 🔐 Identity & Access Management (IAM) & Security
 Securing services with Single Sign-On (SSO) and robust authentication.
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/authentik.svg" width="40" height="40" title="Authentik"/> 
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/keycloak.svg" width="40" height="40" title="Keycloak"/> 
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/hashicorp-vault.svg" width="40" height="40" title="HashiCorp Vault"/> 
+</p>
+
+## 💾 Storage & Backup
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/postgresql.svg" width="40" height="40" title="Postgres"/> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/databasus.svg" width="40" height="40" title="Databasus"/> 
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/borg.svg" width="40" height="40" title="HashiCorp Vault"/> 
 </p>
 
 ## 📖 Documentation & Developer Experience
